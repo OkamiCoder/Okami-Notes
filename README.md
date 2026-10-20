@@ -7,7 +7,7 @@
   <img src="assets/2nd_banner.png" alt="Okami Notes Banner 1" width="100%">
 </p>
 
-A breathtakingly beautiful, minimalist workspace designed for seamless note-taking, checklist management, and extreme aesthetic customization. Built entirely with vanilla web technologies, **Okami Notes** puts the power of interface design directly into your hands.
+A breathtakingly beautiful, minimalist workspace designed for seamless note-taking, checklist management, and extreme aesthetic customization. Built entirely with vanilla web technologies, **Okami Notes** puts the power of interface design directly into your hands. (https://okamicoder.github.io/Okami-Notes/)
 
 ---
 
