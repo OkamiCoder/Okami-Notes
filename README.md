@@ -36,7 +36,7 @@ A breathtakingly beautiful, minimalist workspace designed for seamless note-taki
 ## 🛠️ Tech Stack
 
 * **Frontend:** Vanilla JavaScript (ES6+), HTML5
-* **Styling:** Modern CSS3 (CSS Variables, Flexbox, CSS Grid, Advanced keyframe animations)
+* **Styling:** Modern CSS3 (CSS Variables, Flexbox, CSS Grid, Advanced keyframe animations) and Tailwind CSS
 * **Storage:** LocalStorage API (Client-side localized JSON persistence)
 * **Icons:** Dynamic vector SVGs inline injection
 
