@@ -71,3 +71,5 @@ Simply open the `index.html` file in your favorite web browser.
 ## 📝 License
 
 This project is licensed under the MIT License - feel free to customize and make it your own!
+
+Soon will be added MarkDown editor right in the notes.
