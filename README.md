@@ -1,5 +1,5 @@
 # 🌸 Okami Notes
-
+ 
 <p align="center">
   <img src="assets/1st_banner.png" alt="Okami Notes Banner 1" width="100%">
 </p>
